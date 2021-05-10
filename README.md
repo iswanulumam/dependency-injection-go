@@ -1,3 +1,3 @@
 # dependency-injection-golang
 
-Iependency Injection in Golang
+Dependency Injection in Golang
